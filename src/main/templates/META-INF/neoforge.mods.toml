@@ -42,12 +42,10 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="HunterSpace46"
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''
-Example mod description.
-'''
+description="A mod that makes all items fully automatable and renewable! Kenadian's worst nightmare..."
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]
@@ -61,7 +59,7 @@ Example mod description.
 # The coremods config file path is not configurable and is always loaded from META-INF/coremods.json
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.${mod_id}]] #optional
+[[dependencies."${mod_id}"]] #optional
     # the modid of the dependency
     modId="neoforge" #mandatory
     # The type of the dependency. Can be one of "required", "optional", "incompatible" or "discouraged" (case insensitive).
@@ -80,11 +78,10 @@ Example mod description.
     side="BOTH"
 
 # Here's another dependency
-[[dependencies.${mod_id}]]
-    modId="minecraft"
+[[dependencies."${mod_id}"]]
+    modId="create"
     type="required"
-    # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="${minecraft_version_range}"
+    versionRange="[6.0.9,6.1.0)"
     ordering="NONE"
     side="BOTH"
 
