@@ -1,13 +1,13 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item",
+  "itemGroup.create_overproduced": "Example Mod Tab",
+  "block.create_overproduced.example_block": "Example Block",
+  "item.create_overproduced.example_item": "Example Item",
 
-  "examplemod.configuration.title": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
-  "examplemod.configuration.items": "Item List",
-  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
-  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "create_overproduced.configuration.title": "Example Mod Configs",
+  "create_overproduced.configuration.section.create_overproduced.common.toml": "Example Mod Configs",
+  "create_overproduced.configuration.section.create_overproduced.common.toml.title": "Example Mod Configs",
+  "create_overproduced.configuration.items": "Cancel item recipes",
+  "create_overproduced.configuration.logDirtBlock": "Log Dirt Block",
+  "create_overproduced.configuration.magicNumberIntroduction": "Magic Number Text",
+  "create_overproduced.configuration.magicNumber": "Magic Number"
 }
