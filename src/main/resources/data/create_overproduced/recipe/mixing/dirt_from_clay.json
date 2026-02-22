@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:clay" },
+    { "item": "minecraft:gravel" }
+  ],
+  "results": [
+    { "id": "minecraft:dirt", "count": 2 }
+  ]
+}

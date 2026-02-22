@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "key": {
+    "c": { "item": "minecraft:charcoal" }
+  },
+  "result": { "id": "minecraft:coal_block", "count": 1 }
+}

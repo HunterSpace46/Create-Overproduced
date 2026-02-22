@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "tag": "create_overproduced:plants" },
+    { "type": "fluid_stack", "amount": 100, "fluid": "minecraft:lava" }
+  ],
+  "results": [
+    { "chance": 0.8, "id": "minecraft:coal" }
+  ]
+}

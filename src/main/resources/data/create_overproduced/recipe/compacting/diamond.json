@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:coal_block" },
+    { "item": "minecraft:coal_block" },
+    { "item": "minecraft:coal_block" },
+    { "item": "minecraft:coal_block" },
+    { "type": "fluid_stack",  "amount": 1000, "fluid": "minecraft:lava" }
+  ],
+  "results": [
+    { "chance": 0.2, "id": "minecraft:diamond" }
+  ],
+  "heat_requirement": "superheated"
+}

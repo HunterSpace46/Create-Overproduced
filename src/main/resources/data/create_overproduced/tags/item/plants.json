@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#minecraft:leaves",
+    "#minecraft:completes_find_tree_tutorial",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot",
+    "minecraft:apple",
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "create:honeyed_apple",
+    "minecraft:wheat_seeds",
+    "minecraft:beetroot_seeds",
+    "#create_overproduced:kinda_grass"
+  ]
+}

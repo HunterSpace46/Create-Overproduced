@@ -1,0 +1,12 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:blackstone" },
+    { "tag": "c:nuggets/gold" },
+    { "tag": "c:nuggets/gold" },
+    { "tag": "c:nuggets/gold" }
+  ],
+  "results": [
+    { "id": "minecraft:gilded_blackstone" }
+  ]
+}
