@@ -1,6 +1,5 @@
 {
   "type": "create:mixing",
-  "heat_requirement": "heated",
   "ingredients": [
     { "tag": "c:raw_materials/iron" },
     { "tag": "c:raw_materials/copper" },
