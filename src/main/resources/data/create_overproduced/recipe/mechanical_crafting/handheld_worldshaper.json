@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "P": {
+      "item": "create_overproduced:creative_powder"
+    }
+  },
+  "pattern": [
+    "CPMOOO",
+    "AA    "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:handheld_worldshaper"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    { "tag": "c:raw_materials/iron" }
+  ],
+  "results": [
+    { "id": "create:raw_zinc" }
+  ]
+}

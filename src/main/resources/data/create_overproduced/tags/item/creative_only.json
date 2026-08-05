@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_overproduced:creative_powder",
+    "#create_overproduced:creative_only_but_not_creative_powder"
+  ]
+}

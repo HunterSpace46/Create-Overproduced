@@ -1,7 +1,6 @@
 {
-  "itemGroup.create_overproduced": "Example Mod Tab",
-  "block.create_overproduced.example_block": "Example Block",
-  "item.create_overproduced.example_item": "Example Item",
+  "item.create_overproduced.creative_powder": "Creative Powder",
+  "item.create_overproduced.creative_blaze_cake_base": "Creative Blaze Cake Base",
 
   "create_overproduced.configuration.title": "Example Mod Configs",
   "create_overproduced.configuration.section.create_overproduced.common.toml": "Example Mod Configs",

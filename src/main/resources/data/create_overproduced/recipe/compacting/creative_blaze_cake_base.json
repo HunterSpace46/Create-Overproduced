@@ -1,0 +1,11 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:sugar" },
+    { "item": "create_overproduced:creative_powder" }
+  ],
+  "results": [
+    { "id": "create_overproduced:creative_blaze_cake_base" }
+  ]
+}

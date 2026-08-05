@@ -1,0 +1,11 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    { "tag": "c:ingots/iron" },
+    { "id": "minecraft:gravel" }
+  ],
+  "results": [
+    { "id": "minecraft:raw_iron" }
+  ]
+}
