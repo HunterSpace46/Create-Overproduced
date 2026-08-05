@@ -2,9 +2,11 @@
   "type": "create:mixing",
   "heat_requirement": "heated",
   "ingredients": [
-    { "tag": "c:raw_materials/iron" }
+    { "tag": "c:raw_materials/iron" },
+    { "tag": "c:raw_materials/copper" },
+    { "type": "fluid_stack", "amount": 100, "fluid": "minecraft:lava" }
   ],
   "results": [
-    { "id": "create:raw_zinc" }
+    { "chance": 0.2, "id": "create:raw_zinc", "count": 2 }
   ]
 }

@@ -3,9 +3,10 @@
   "heat_requirement": "heated",
   "ingredients": [
     { "tag": "c:ingots/iron" },
-    { "id": "minecraft:gravel" }
+    { "tag": "c:gravels" }
   ],
   "results": [
-    { "id": "minecraft:raw_iron" }
+    { "chance": 0.2, "id": "minecraft:raw_iron" },
+    { "chance": 0.3, "id": "minecraft:iron_nugget", "count": 3 }
   ]
 }

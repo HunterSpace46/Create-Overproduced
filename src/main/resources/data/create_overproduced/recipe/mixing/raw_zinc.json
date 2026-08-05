@@ -1,0 +1,12 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    { "tag": "c:ingots/zinc" },
+    { "tag": "c:gravels" }
+  ],
+  "results": [
+    { "chance": 0.2, "id": "create:raw_zinc" },
+    { "chance": 0.3, "id": "create:zinc_nugget", "count": 3 }
+  ]
+}
