@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:charcoal" },
+    { "item": "minecraft:charcoal" },
+    { "item": "minecraft:charcoal" },
+    { "item": "minecraft:charcoal" },
+    { "type": "fluid_stack", "amount": 100, "fluid": "minecraft:lava" }
+  ],
+  "results": [
+    { "id": "minecraft:tuff" }
+  ]
+}
