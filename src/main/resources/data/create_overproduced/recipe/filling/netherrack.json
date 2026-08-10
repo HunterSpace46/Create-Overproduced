@@ -6,7 +6,7 @@
     },
     {
       "type": "neoforge:single",
-      "amount": 25,
+      "amount": 50,
       "fluid": "minecraft:lava"
     }
   ],
