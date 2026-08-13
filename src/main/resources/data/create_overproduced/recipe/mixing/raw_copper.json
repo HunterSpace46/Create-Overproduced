@@ -6,7 +6,7 @@
     { "tag": "c:gravels" }
   ],
   "results": [
-    { "chance": 0.2, "id": "minecraft:raw_copper" },
-    { "chance": 0.3, "id": "create:copper_nugget", "count": 3 }
+    { "chance": 0.8, "id": "minecraft:raw_copper" },
+    { "chance": 0.85, "id": "create:copper_nugget", "count": 2 }
   ]
 }
